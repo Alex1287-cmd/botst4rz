@@ -17,10 +17,10 @@ Sebelum lu jalanin sc nya install dulu lah.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
+> pkg install git && pkg install tesseract && pkg install wget && pkg install ffmpeg && pkg install nodejs
 > git clone https://github.com/Alex1287-cmd/botst4rz.git
 > cd botst4rz
-> bash install.sh
-> node index.js
+> npm i -g cwebp && npm i node-tesseract-ocr && npm i -g ytdl && npm i  && npm i got && node index js
 > Tinggal scan qr dah
 ```
 

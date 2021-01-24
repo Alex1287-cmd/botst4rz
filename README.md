@@ -49,4 +49,4 @@ Sebelum lu jalanin sc nya install dulu lah.
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
 ### Donate
-* [`Saweria`](https://saweria.co/donate/bintangnurpradana)
+* [`Saweria`](https://saweria.co/donate/bintangnurpradaa)

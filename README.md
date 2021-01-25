@@ -18,7 +18,7 @@ Sebelum lu jalanin sc nya install dulu lah.
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
 > pkg install git && pkg install tesseract && pkg install wget && pkg install ffmpeg && pkg install nodejs
-> git clone https://github.com/Alex1287-cmd/botst4rz5.git
+> git clone https://github.com/Alex1287-cmd/botst4rz6.git
 > cd botst4rz6
 > npm i -g cwebp && npm i node-tesseract-ocr && npm i -g ytdl && npm i  && npm i got && node index js
 > Tinggal scan qr dah
@@ -44,9 +44,7 @@ Sebelum lu jalanin sc nya install dulu lah.
 |       ✅       | Say                              |
 |       ✅       | Info                             |
 |       ✅       | Donate                           |
+|       ❌       |tiktok                            |          
 
 ## Special Thanks to
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
-
-### Donate
-* [`Saweria`](https://saweria.co/donate/bintangnurpradaa)

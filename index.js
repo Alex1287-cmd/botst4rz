@@ -12,7 +12,7 @@ const menu = require("./lib/menu.js");
 const donate = require("./lib/donate.js");
 const info = require("./lib/info.js");
 //
-const BotName = 'STYOI BOT 🤖'; // Nama Bot Whatsapp
+const BotName = 'STR5 BOT 🤖'; // Nama Bot Whatsapp
 const instagramlu = 'https://instagram.com/bintang_nur_pradana'; // Nama Instagramlu cok
 const whatsapplu = '0888-1393-308'; // Nomor whatsapplu cok
 const kapanbotaktif = 'tergantung jaringan'; // Kapan bot lu aktif
